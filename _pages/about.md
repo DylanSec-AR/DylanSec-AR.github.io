@@ -18,7 +18,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Detail-oriented technician currently pursuing "Licenciatura en Ciberdefensa" at FADENA, CompTIA Security+ and Cisco Certified Network Associate (CCNA). Combining academic rigor in national security frameworks with hands-on experience in Jekyll/GitHub CI/CD deployments technical support.
+Detail-oriented technician currently pursuing "Licenciatura en Ciberdefensa" at FADENA, CompTIA Security+ and Cisco Certified Network Associate (CCNA). Combining academic rigor in national security frameworks with hands-on experience in Jekyll/GitHub CI/CD deployments and CCNA/Security+ methodologies to provide technical support.
 
 Skills summary:
 Networking: IPv4/IPv6, DHCP, DNS, Basic Routing (Cisco).
