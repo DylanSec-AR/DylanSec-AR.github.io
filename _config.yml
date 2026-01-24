@@ -203,13 +203,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _pages/publications.md
-  - _pages/repositories.md
-  - _pages/books.md
-  - _pages/dropdown.md
-  - _pages/news.md
-  - _pages/projects.md
-  - _pages/teaching.md
   
 keep_files:
   - CNAME
