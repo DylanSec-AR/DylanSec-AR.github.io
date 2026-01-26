@@ -27,7 +27,7 @@ ninja.data = [{
         
           title: "Hardware",
         
-        description: "this is what included pseudo code could look like",
+        description: "PC Build",
         section: "Posts",
         handler: () => {
           
