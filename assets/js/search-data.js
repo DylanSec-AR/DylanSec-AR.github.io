@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-guiding-hardware-selection-and-pc-builds-for-optimal-performance",
+        
+          title: "Guiding Hardware Selection and PC Builds for Optimal Performance",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/post-citation/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -76,17 +87,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/typograms/";
-          
-        },
-      },{id: "post-a-post-that-can-be-cited",
-        
-          title: "a post that can be cited",
-        
-        description: "this is what a post that can be cited looks like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/post-citation/";
           
         },
       },{id: "post-a-post-with-pseudo-code",
