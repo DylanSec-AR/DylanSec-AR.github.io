@@ -34,6 +34,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/post-citation/";
           
         },
+      },{id: "post-hardware",
+        
+          title: "Hardware",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Hardware/";
+          
+        },
       },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
