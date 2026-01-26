@@ -34,17 +34,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/Hardware/";
           
         },
-      },{id: "post-guiding-hardware-selection-and-pc-builds-for-optimal-performance",
-        
-          title: "Guiding Hardware Selection and PC Builds for Optimal Performance",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/post-citation/";
-          
-        },
       },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
