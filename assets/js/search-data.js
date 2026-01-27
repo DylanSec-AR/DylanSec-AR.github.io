@@ -23,15 +23,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-",
+        },{id: "post-everyday-it-troubleshooting-from-office-activations-to-connectivity-fixes",
         
-          title: "",
+          title: "Everyday IT Troubleshooting From Office Activations to Connectivity Fixes",
         
-        description: "",
+        description: "Experience with virtualization and sandboxing for security and isolation purposes",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/2026-1-27-Virtual-Machines/";
+            window.location.href = "/blog/2026/Virtual-Machines/";
           
         },
       },{id: "post-hardware",
