@@ -34,6 +34,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/troubleshootings/";
           
         },
+      },{id: "post-user-support",
+        
+          title: "User support",
+        
+        description: "Software problems sometimes are complicated, and for the normal user, its difficult to understand the why of a problem. In this experience i could explain the logic behind an issue to a friend, and then we could solve it together.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/usersupport/";
+          
+        },
       },{id: "post-os-transitions-and-virtual-machine-setups-for-enhanced-flexibility",
         
           title: "OS Transitions and Virtual Machine Setups for Enhanced Flexibility",
