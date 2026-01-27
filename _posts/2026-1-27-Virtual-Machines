@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hardware
+title: Virtual Machines
 date: 2026-01-25 15:16:00
-description: PC Build
-tags: Hardware Assist
+description: Experience with virtualization and sandboxing for security and isolation purposes
+tags: Software Virtualization VM
 categories: Portfolio
 pseudocode: true
 ---
