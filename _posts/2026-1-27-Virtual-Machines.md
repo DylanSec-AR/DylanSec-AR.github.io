@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Everyday IT Troubleshooting: From Office Activations to Connectivity Fixes
+title: Everyday IT Troubleshooting From Office Activations to Connectivity Fixes
 date: 2026-01-25 15:16:00
 description: Experience with virtualization and sandboxing for security and isolation purposes
 tags: Software Virtualization VM
