@@ -31,7 +31,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/Virtual-Machines/";
+            window.location.href = "/blog/2026/troubleshootings/";
           
         },
       },{id: "post-os-transitions-and-virtual-machine-setups-for-enhanced-flexibility",
