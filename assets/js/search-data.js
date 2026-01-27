@@ -23,15 +23,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-virtual-machines",
+        },{id: "post-",
         
-          title: "Virtual Machines",
+          title: "",
         
-        description: "Experience with virtualization and sandboxing for security and isolation purposes",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/Virtual-Machines/";
+            window.location.href = "/blog/2026/2026-1-27-Virtual-Machines/";
           
         },
       },{id: "post-hardware",
