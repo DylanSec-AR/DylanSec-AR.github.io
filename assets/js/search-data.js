@@ -34,6 +34,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/Virtual-Machines/";
           
         },
+      },{id: "post-os-transitions-and-virtual-machine-setups-for-enhanced-flexibility",
+        
+          title: "OS Transitions and Virtual Machine Setups for Enhanced Flexibility",
+        
+        description: "Security through isolation and flexibility are some pros of using virtual machines",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Virtual-machine/";
+          
+        },
       },{id: "post-hardware",
         
           title: "Hardware",
