@@ -14,7 +14,7 @@ Building on that, I set up a virtual environment using VirtualBox, provisioning 
 I allocated resources (1gb for xp, 2 RAM for win7, 4 for kali linux), networked them (internal networks, isolated), and installed tools like Metasploit in Kali. 
 This setup allowed safe experimentation, such as testing malware in isolation.
 <div class="row justify-content-center">
-    <div class="col-md-12"> {% include figure.liquid path="assets/img/LAB-DYLAN12.png" class="img-fluid rounded" z-depth-1" zoomable=true %}
+    <div class="col-md-12"> {% include figure.liquid path="assets/img/LAB-DYLAN12.png" class="img-fluid rounded" %}
     </div>
 </div>
 <div class="caption">
