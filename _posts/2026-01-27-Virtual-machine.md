@@ -20,7 +20,7 @@ This setup allowed safe experimentation, such as testing malware in isolation.
 <div class="caption">
     After networking them the only thing left was to test it by trying to reach the other virtual computers. I did this with the Kali Linux CLI, by: 
 </div>
-<div class="caption" style="text-align: left;">
+<div class="post-content" style="text-align: left;">
 <ul>
   <li>typing "ping 192.168.10.1" and "ping 192.168.10.3" respectively, this command uses ICMP protocol (TCP/IP internet layer).</li>
   <li>typing "ip neigh". This command checks the ARP table to see past connections and gives data about its state (e.g. REACHABLE, STALE, FAILED)</li>
