@@ -22,8 +22,8 @@ This setup allowed safe experimentation, such as testing malware in isolation.
 </div>
 <div class="caption" style="text-align: left;">
 <ul>
-  <li>typing "ping 192.168.10.1" and "ping 192.168.10.3" respectively, this command uses ICMP protocol (TCP/IP internet layer).</li>
-  <li>typing "ip neigh". This command checks the ARP table to see past connections and gives data about its state (e.g. REACHABLE, STALE, FAILED)</li>
-  <li>typing nmap "-sV 192.168.10.1" and "-sv 192.168.10.3". Nmap is a reconaissance tool that scans for open ports by manipulating TCP handshake process</li>
+  <li>typing **"ping 192.168.10.1"** and **"ping 192.168.10.3"** respectively, this command uses ICMP protocol (TCP/IP internet layer).</li>
+  <li>typing **"ip neigh"**. This command checks the ARP table to see past connections and gives data about its state (e.g. REACHABLE, STALE, FAILED)</li>
+  <li>typing **nmap "-sV 192.168.10.1"** and **"-sv 192.168.10.3"**. Nmap is a reconaissance tool that scans for open ports by manipulating TCP handshake process</li>
 </ul>
 </div>
