@@ -34,25 +34,25 @@ cv:
 
     
     Skills:
-      - name: OS/VM Management
+          name: OS/VM Management
         icon: fa-solid fa-hashtag
         keywords: "Operating System Management: Installation and configuration of Linux distributions (e.g., Linux Mint) and virtual environments (e.g., VMware or VirtualBox with multiple OS instances)."
-         - name: Computer Hardware
+          name: Computer Hardware
         icon: fa-solid fa-hashtag
         keywords: "Hardware Assembly: Selection and assembly of compatible PC components for custom builds."
-         - name: Networking
+          name: Networking
         icon: fa-solid fa-hashtag
         keywords: "Networking and Connectivity: IP configuration, LAN/WAN troubleshooting, basic routing/switching (from CCNA studies)."
-         - name: Windows OS
+          name: Windows OS
         icon: fa-solid fa-hashtag
         keywords: "Advanced proficiency in Windows OS, including system configuration and optimization."
-         - name: Communication
+          name: Communication
         icon: fa-solid fa-hashtag
         keywords: "Excellent communication for user support and documentation."
-         - name: bilingual
+          name: bilingual
         icon: fa-solid fa-hashtag
         keywords: "Bilingual English-Spanish (technical fluency in IT terminology)."
-         - name: Adaptability
+          name: Adaptability
         icon: fa-solid fa-hashtag
         keywords: "Adaptability to full-time shifts (day, evening, night) including weekend part-time availability."
 
