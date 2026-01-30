@@ -139,6 +139,11 @@ layout: default
           {% assign section_title = section_pair[0] %}
           {% assign section_entries = section_pair[1] %}
 
+          {% comment %} NEW: Skip if the section is empty to avoid ghost titles {% endcomment %}
+          {% if section_entries.size == 0 %}
+            {% continue %}
+          {% endif %}
+
           {% comment %} Skip Experience and Volunteer as we've already processed them combined {% endcomment %}
           {% if section_title == 'Experience' or section_title == 'Volunteer' %}
             {% continue %}
