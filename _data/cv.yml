@@ -4,7 +4,7 @@ cv:
   email: dylan.torre@aol.com
   location: Bahia Blanca, Buenos Aires, Argentina
   image: ""
-  summary: Bylingual IT student with 
+  summary: "Bilingual IT student with a focus on Cybersecurity and infrastructure."
 
   social_networks:
     - network: X
@@ -30,36 +30,32 @@ cv:
         start_date: 2026
         end_date: 2030 (expected)
 
-
-
-    
     Skills:
-          name: OS/VM Management
+      - name: OS/VM Management
         icon: fa-solid fa-hashtag
         keywords: "Operating System Management: Installation and configuration of Linux distributions (e.g., Linux Mint) and virtual environments (e.g., VMware or VirtualBox with multiple OS instances)."
-          name: Computer Hardware
+      - name: Computer Hardware
         icon: fa-solid fa-hashtag
         keywords: "Hardware Assembly: Selection and assembly of compatible PC components for custom builds."
-          name: Networking
+      - name: Networking
         icon: fa-solid fa-hashtag
         keywords: "Networking and Connectivity: IP configuration, LAN/WAN troubleshooting, basic routing/switching (from CCNA studies)."
-          name: Windows OS
+      - name: Windows OS
         icon: fa-solid fa-hashtag
         keywords: "Advanced proficiency in Windows OS, including system configuration and optimization."
-          name: Communication
+      - name: Communication
         icon: fa-solid fa-hashtag
         keywords: "Excellent communication for user support and documentation."
-          name: bilingual
+      - name: bilingual
         icon: fa-solid fa-hashtag
         keywords: "Bilingual English-Spanish (technical fluency in IT terminology)."
-          name: Adaptability
+      - name: Adaptability
         icon: fa-solid fa-hashtag
         keywords: "Adaptability to full-time shifts (day, evening, night) including weekend part-time availability."
 
     Languages:
       - name: Spanish
         summary: "Native speaker"
-
       - name: English
         summary: "Technical fluent"
 
@@ -78,29 +74,27 @@ cv:
         date: Expected 2026
         issuer: Cisco NETACAD
         icon: fa-solid fa-location-dot
-
       - name: CompTIA Security+
         date: Expected 2026
         issuer: CompTIA
         icon: fa-solid fa-tag
 
-
     Relevant Projects & Activities:
       - name: Hardware Consultation and PC Assembly
-        summary: Advised multiple individuals on selecting compatible, future-proof hardware components tailored to specific needs (e.g., gaming, productivity). Assembled custom PCs hands-on and provided remote guidance for self-builds, ensuring optimal performance and compatibility.
+        summary: Advised multiple individuals on selecting hardware components.
         highlights:
           - Personal Projects
         start_date: 2023
         end_date: present
-- name: Hardware Consultation and PC Assembly
-        summary: Resolved recurring issues for family members, including Microsoft Office product activation, connectivity problems, and printer malfunctions. Recently configured a new computer setup, diagnosing and fixing internet connectivity failures through systematic network checks. Handled over 50 incidents, honing Level 1 ticket resolution skills.
+      - name: Technical Support & Troubleshooting
+        summary: Resolved recurring issues including software activation and connectivity.
         highlights:
           - Ongoing Support
           - Personal Projects
-        start_date: -
+        start_date: 2024
         end_date: present
-        - name: Operating System Migration and Virtualization
-        summary: Migrated personal laptop from Windows to Linux Mint, optimizing for dual-boot compatibility and security. Established a virtual environment with three machines (Windows 7, Windows XP, Kali Linux) for testing and cybersecurity exercises, demonstrating proficiency in OS installation, resource allocation, and isolation.
+      - name: Operating System Migration and Virtualization
+        summary: Migrated personal laptop to Linux Mint and established VM testing environments.
         highlights:
           - Personal Projects
         start_date: 2025
