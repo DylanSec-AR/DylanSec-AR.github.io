@@ -15,6 +15,7 @@ cv:
       username: example
 
   address:
+    street: ""
     city: Bahia Blanca
     region: Buenos Aires
     postalCode: B8000
@@ -29,6 +30,14 @@ cv:
         studyType: Bachelor's degree
         start_date: 2026
         end_date: 2030
+
+    Experience: []
+
+    Volunteer: []
+
+    Awards: []
+
+    Publications: []
 
     Skills:
       - name: OS/VM Management
@@ -50,7 +59,7 @@ cv:
       - name: English
         summary: "Technical fluent"
 
-    "Tools and Technologies":
+    Interests:
       - name: Microsoft Office Suite
         icon: fa-solid fa-tag
       - name: Diagnostic Tools
@@ -82,3 +91,5 @@ cv:
           - Built lab with Win 7, XP, and Kali Linux
         start_date: 2025
         end_date: present
+
+    References: []
