@@ -2,7 +2,7 @@ cv:
   name: Dylan D. Torre
   label: Student
   email: dylan.torre@aol.com
-  location: Bahia Blanca, Buenos Aires, Argentina
+  location: "Bahia Blanca, Buenos Aires, Argentina"
   image: ""
   summary: "Bilingual IT student with a focus on Cybersecurity and infrastructure."
 
@@ -33,25 +33,16 @@ cv:
     Skills:
       - name: OS/VM Management
         icon: fa-solid fa-hashtag
-        keywords: "Operating System Management: Installation and configuration of Linux distributions (e.g., Linux Mint) and virtual environments (e.g., VMware or VirtualBox with multiple OS instances)."
+        keywords: "Installation and configuration of Linux (e.g., Linux Mint) and virtual environments (VMware/VirtualBox)."
       - name: Computer Hardware
         icon: fa-solid fa-hashtag
-        keywords: "Hardware Assembly: Selection and assembly of compatible PC components for custom builds."
+        keywords: "Selection and assembly of compatible PC components for custom builds."
       - name: Networking
         icon: fa-solid fa-hashtag
-        keywords: "Networking and Connectivity: IP configuration, LAN/WAN troubleshooting, basic routing/switching (from CCNA studies)."
+        keywords: "IP configuration, LAN/WAN troubleshooting, basic routing/switching."
       - name: Windows OS
         icon: fa-solid fa-hashtag
         keywords: "Advanced proficiency in Windows OS, including system configuration and optimization."
-      - name: Communication
-        icon: fa-solid fa-hashtag
-        keywords: "Excellent communication for user support and documentation."
-      - name: bilingual
-        icon: fa-solid fa-hashtag
-        keywords: "Bilingual English-Spanish (technical fluency in IT terminology)."
-      - name: Adaptability
-        icon: fa-solid fa-hashtag
-        keywords: "Adaptability to full-time shifts (day, evening, night) including weekend part-time availability."
 
     Languages:
       - name: Spanish
@@ -59,43 +50,35 @@ cv:
       - name: English
         summary: "Technical fluent"
 
-    Tools and Technologies:
-      - name: Microsoft Office Suite.
+    "Tools and Technologies":
+      - name: Microsoft Office Suite
         icon: fa-solid fa-tag
-      - name: Basic scripting and diagnostic tools (e.g., Command Prompt, PowerShell).
+      - name: Diagnostic Tools
         icon: fa-solid fa-tag
-      - name: Familiarity with remote support software and help desk ticketing systems.
-        icon: fa-solid fa-tag
-      - name: Virtualization tools (e.g., for setting up VMs with Windows 7, XP, and Kali Linux).
-        icon: fa-solid fa-tag
-        
+        keywords: "Command Prompt, PowerShell, and remote support software."
+
     Certificates:
       - name: Cisco CCNA
-        date: Expected 2026
+        date: 2026
         issuer: Cisco NETACAD
         icon: fa-solid fa-location-dot
       - name: CompTIA Security+
-        date: Expected 2026
+        date: 2026
         issuer: CompTIA
         icon: fa-solid fa-tag
 
-    Relevant Projects & Activities:
+    Projects:
       - name: Hardware Consultation and PC Assembly
-        summary: Advised multiple individuals on selecting hardware components.
+        summary: "Advised individuals on hardware selection and custom PC builds."
         highlights:
-          - Personal Projects
+          - Assembled custom PCs hands-on
+          - Provided remote guidance for self-builds
         start_date: 2023
         end_date: present
-      - name: Technical Support & Troubleshooting
-        summary: Resolved recurring issues including software activation and connectivity.
+      - name: Operating System Migration
+        summary: "Migrated personal laptop to Linux Mint and established VM testing environments."
         highlights:
-          - Ongoing Support
-          - Personal Projects
-        start_date: 2024
-        end_date: present
-      - name: Operating System Migration and Virtualization
-        summary: Migrated personal laptop to Linux Mint and established VM testing environments.
-        highlights:
-          - Personal Projects
+          - Configured dual-boot compatibility
+          - Built lab with Win 7, XP, and Kali Linux
         start_date: 2025
         end_date: present
