@@ -58,12 +58,7 @@ cv:
       - name: English
         summary: "Technical fluent"
 
-    Interests:
-      - name: Microsoft Office Suite
-        icon: fa-solid fa-tag
-      - name: Diagnostic Tools
-        icon: fa-solid fa-tag
-        keywords: Command Prompt, PowerShell, and remote support software.
+    Interests: []
 
     Certificates:
       - name: Cisco CCNA
