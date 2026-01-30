@@ -63,7 +63,7 @@ cv:
         icon: fa-solid fa-tag
       - name: Diagnostic Tools
         icon: fa-solid fa-tag
-        keywords: "Command Prompt, PowerShell, and remote support software."
+        keywords: Command Prompt, PowerShell, and remote support software.
 
     Certificates:
       - name: Cisco CCNA
