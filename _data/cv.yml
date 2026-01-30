@@ -15,7 +15,6 @@ cv:
       username: example
 
   address:
-    street: ""
     city: Bahia Blanca
     region: Buenos Aires
     postalCode: B8000
