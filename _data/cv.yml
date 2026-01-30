@@ -30,31 +30,21 @@ cv:
         start_date: 2026
         end_date: 2030
 
-    # Experience is mandatory for RenderCV, so we give it a placeholder or 
-    # keep it empty but formatted as a list of objects.
-    Experience: []
-
     Skills:
-      - name: OS/VM Management
+      - label: OS/VM Management
         details: "Installation and configuration of Linux (e.g., Linux Mint) and virtual environments (VMware/VirtualBox)."
-      - name: Computer Hardware
+      - label: Computer Hardware
         details: "Selection and assembly of compatible PC components for custom builds."
-      - name: Networking
+      - label: Networking
         details: "IP configuration, LAN/WAN troubleshooting, basic routing/switching."
-      - name: Windows OS
+      - label: Windows OS
         details: "Advanced proficiency in Windows OS, including system configuration and optimization."
 
     Languages:
       - name: Spanish
-        level: Native speaker
+        details: "Native speaker"
       - name: English
-        level: Technical fluent
-
-    # RenderCV prefers "Technologies" or "Interests" as a list of names/keywords
-    Interests:
-      - name: Microsoft Office Suite
-      - name: Diagnostic Tools
-        keywords: ["Command Prompt", "PowerShell", "Remote Support"]
+        details: "Technical fluent"
 
     Certificates:
       - name: Cisco CCNA
@@ -66,20 +56,14 @@ cv:
 
     Projects:
       - name: Hardware Consultation and PC Assembly
-        date: 2023 - present
+        date: 2023 – present
         summary: "Advised individuals on hardware selection and custom PC builds."
         highlights:
           - Assembled custom PCs hands-on
           - Provided remote guidance for self-builds
       - name: Operating System Migration
-        date: 2025 - present
+        date: 2025 – present
         summary: "Migrated personal laptop to Linux Mint and established VM testing environments."
         highlights:
           - Configured dual-boot compatibility
           - Built lab with Win 7, XP, and Kali Linux
-
-    # Adding these back as empty lists to keep the Website's 'concat' filter happy
-    Volunteer: []
-    Awards: []
-    Publications: []
-    References: []
