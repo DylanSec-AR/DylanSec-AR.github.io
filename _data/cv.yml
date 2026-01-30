@@ -15,7 +15,6 @@ cv:
       username: example
 
   address:
-    street: ""
     city: Bahia Blanca
     region: Buenos Aires
     postalCode: B8000
@@ -31,65 +30,49 @@ cv:
         start_date: 2026
         end_date: 2030
 
-    Experience: []
-
-    Volunteer: []
-
-    Awards: []
-
-    Publications: []
+    # These sections are removed entirely to stop RenderCV from crashing.
+    # If the website crashes again, we will fix the website's layout file instead.
 
     Skills:
       - name: OS/VM Management
-        icon: fa-solid fa-hashtag
-        keywords: "Installation and configuration of Linux (e.g., Linux Mint) and virtual environments (VMware/VirtualBox)."
+        details: "Installation and configuration of Linux (e.g., Linux Mint) and virtual environments (VMware/VirtualBox)."
       - name: Computer Hardware
-        icon: fa-solid fa-hashtag
-        keywords: "Selection and assembly of compatible PC components for custom builds."
+        details: "Selection and assembly of compatible PC components for custom builds."
       - name: Networking
-        icon: fa-solid fa-hashtag
-        keywords: "IP configuration, LAN/WAN troubleshooting, basic routing/switching."
+        details: "IP configuration, LAN/WAN troubleshooting, basic routing/switching."
       - name: Windows OS
-        icon: fa-solid fa-hashtag
-        keywords: "Advanced proficiency in Windows OS, including system configuration and optimization."
+        details: "Advanced proficiency in Windows OS, including system configuration and optimization."
 
     Languages:
       - name: Spanish
-        summary: "Native speaker"
+        level: Native speaker
       - name: English
-        summary: "Technical fluent"
+        level: Technical fluent
 
-    Interests:
+    # We use 'Technologies' instead of 'Interests' to be safer with RenderCV
+    Technologies:
       - name: Microsoft Office Suite
-        icon: fa-solid fa-tag
       - name: Diagnostic Tools
-        icon: fa-solid fa-tag
-        keywords: "Command Prompt, PowerShell, and remote support software."
+        details: "Command Prompt, PowerShell, and remote support software."
 
     Certificates:
       - name: Cisco CCNA
         date: 2026
         issuer: Cisco NETACAD
-        icon: fa-solid fa-location-dot
       - name: CompTIA Security+
         date: 2026
         issuer: CompTIA
-        icon: fa-solid fa-tag
 
     Projects:
       - name: Hardware Consultation and PC Assembly
+        date: 2023 - present
         summary: "Advised individuals on hardware selection and custom PC builds."
         highlights:
           - Assembled custom PCs hands-on
           - Provided remote guidance for self-builds
-        start_date: 2023
-        end_date: present
       - name: Operating System Migration
+        date: 2025 - present
         summary: "Migrated personal laptop to Linux Mint and established VM testing environments."
         highlights:
           - Configured dual-boot compatibility
           - Built lab with Win 7, XP, and Kali Linux
-        start_date: 2025
-        end_date: present
-
-    References: []
