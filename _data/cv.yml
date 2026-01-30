@@ -30,8 +30,9 @@ cv:
         start_date: 2026
         end_date: 2030
 
-    # These sections are removed entirely to stop RenderCV from crashing.
-    # If the website crashes again, we will fix the website's layout file instead.
+    # Experience is mandatory for RenderCV, so we give it a placeholder or 
+    # keep it empty but formatted as a list of objects.
+    Experience: []
 
     Skills:
       - name: OS/VM Management
@@ -49,11 +50,11 @@ cv:
       - name: English
         level: Technical fluent
 
-    # We use 'Technologies' instead of 'Interests' to be safer with RenderCV
-    Technologies:
+    # RenderCV prefers "Technologies" or "Interests" as a list of names/keywords
+    Interests:
       - name: Microsoft Office Suite
       - name: Diagnostic Tools
-        details: "Command Prompt, PowerShell, and remote support software."
+        keywords: ["Command Prompt", "PowerShell", "Remote Support"]
 
     Certificates:
       - name: Cisco CCNA
@@ -76,3 +77,9 @@ cv:
         highlights:
           - Configured dual-boot compatibility
           - Built lab with Win 7, XP, and Kali Linux
+
+    # Adding these back as empty lists to keep the Website's 'concat' filter happy
+    Volunteer: []
+    Awards: []
+    Publications: []
+    References: []
